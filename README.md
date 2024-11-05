@@ -1,3 +1,5 @@
+# Documentation for SocialFi platform software
+
 # Table of contents
 
 * [🔽 Installation](installation.md)
