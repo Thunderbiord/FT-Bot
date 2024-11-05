@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🔽 Installation](README.md)
+* [🔽 Installation](installation.md)
 * [✅ Authentication](authentication.md)
 * [💾 Configuration](configuration.md)
 * [🚨 Important](important.md)
